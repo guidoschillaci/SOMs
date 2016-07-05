@@ -1,4 +1,8 @@
-# A library for implementing internal models using Self-Organising Maps and Hebbian connections between them #
+# A library for implementing internal models using Self-Organising Maps and Hebbian connections #
+
+Guido Schillaci, Claas N. Ritter, Verena V. Hafner, Bruno Lara, "Body Representations for Robot Ego-Noise Modelling and Prediction. Towards the Development of a Sense of Agency in Artificial Agents", ALIFE 2016
+
+https://www2.informatik.hu-berlin.de/~schillac/papers/schillaci2016.pdf
 
 ## Installation ##
 
